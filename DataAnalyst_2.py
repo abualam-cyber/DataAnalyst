@@ -4,7 +4,7 @@ DATA ANALYTICS AND VISUALIZATION APPLICATION
 This application performs various types of data analysis and visualization on input data.
 It supports multiple analysis types, visualization methods, and output formats.
 
-Author: [Your Name]
+Author: Abu Shahrukh Alam
 Date: October 12, 2024
 Version: 2.1
 """
